@@ -1,0 +1,24 @@
+﻿小王是个小都比
+
+初始化
+git init
+
+查看代码是否有修改变动
+git status
+
+添加所有修改到本地git仓库（.git）
+git add -A
+
+提交修改 并添加注释
+git commit -m "你的注释"
+
+推送本地仓库代码到远程git仓库中（就是提交本地代码到github中）
+git push origin master （master 表示是主分支 默认分支）
+
+输入用户名 密码
+
+
+
+-------
+下载git仓库里面的代码 (要选择  https)
+git clone https://github.com/yehongying/python2.7-connectionsqlserver.git
